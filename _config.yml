@@ -1,7 +1,7 @@
-site: Personal Jekyll Theme
+site: William A McDowell II
 
-url: 
-baseurl: 
+url: "http://wamcdowell.com"
+baseurl: ""
 
 collections:
   pages:
